@@ -19,6 +19,9 @@ Total Revenue Per Category :  Classic pizzas generate the highest revenue at $22
 
 # Purpose and Insights :
 These dashboards collectively provide a detailed analysis of sales performance, customer preferences, and product-level insights. They enable decision-makers to identify top-performing products, optimize offerings, and adjust strategies to boost revenue and efficiency.
+
+View an interactive dashboard in my portfolio : https://mavenanalytics.io/project/23282
+
 # Dashboards : 
 1- Home Page :  ![Home (1)](https://github.com/user-attachments/assets/cb815728-fa56-4f9d-8394-0d665d80606d)
 2- Best & Worst Sellers Page : ![Best   Worst Sellers (2)](https://github.com/user-attachments/assets/92ef4386-b962-4bd1-9b94-5b6754134a50)
